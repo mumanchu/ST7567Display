@@ -1,0 +1,16 @@
+# Keywords for syntax highlighting in the Arduino IDE
+# https://arduino.github.io/arduino-cli/1.4/library-specification/
+# <keyword> <keyword-type> [<reference-link>] [<keyword-token-type>]
+# <keyword-type>       := KEYWORD1 | KEYWORD2 | KEYWORD3 | LITERAL1 | LITERAL2
+# <keyword-token-type> := RESERVED_WORD | RESERVED_WORD_2 | DATA_TYPE | PREPROCESSOR | LITERAL_BOOLEAN
+
+# KEYWORD1 data types
+
+# KEYWORD2 functions
+
+# KEYWORD3 strutures
+
+# LITERAL1 constants
+
+# LITERAL2 other
+

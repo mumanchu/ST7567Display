@@ -6,10 +6,11 @@ A very small and efficient display driver for 12864 LCD displays with the Sitron
 
 ## ** PRELIMINARY **
 
-The library is being added to github, it's not ready yet. It will soon be released as an Arduino library.
+The library is being added to github, it's not ready yet. With luck, it will soon be released as an Arduino library.
 
 ## Description
 
+TODO
 
 
 
