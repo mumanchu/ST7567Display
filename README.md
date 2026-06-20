@@ -1,6 +1,6 @@
 # ST7567Display
 
-Yet another _mumanchu_ libary.
+Yet another _mumanchu_ libary. Unfortunately.
 
 A very small and efficient display driver for 12864 LCD displays with the Sitronix ST7567 controller and an SPI interface. It supports the usual drawing methods, fonts and bitmaps.
 
